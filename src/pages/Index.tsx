@@ -7,10 +7,12 @@ import HowItWorks from "@/components/HowItWorks";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import BackgroundVideo from "@/components/BackgroundVideo";
 
 const Index = () => {
   return (
     <div className="min-h-screen flex flex-col">
+      <BackgroundVideo />
       <Header />
       <Hero />
       <Features />

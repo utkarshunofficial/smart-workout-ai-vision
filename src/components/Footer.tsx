@@ -1,5 +1,6 @@
 
 import React from "react";
+import Logo from "./Logo";
 
 const Footer = () => {
   return (
@@ -7,11 +8,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <div className="flex items-center gap-2 mb-6">
-              <div className="h-8 w-8 rounded-full bg-gradient-to-r from-blue-500 to-teal-400 flex items-center justify-center">
-                <span className="font-bold text-white">GB</span>
-              </div>
-              <h1 className="text-xl font-bold">Gym Buddy</h1>
+            <div className="mb-6">
+              <Logo />
             </div>
             <p className="text-gray-400 mb-6">
               AI-powered workout tracker that helps you perfect your form and reach your fitness goals faster.
