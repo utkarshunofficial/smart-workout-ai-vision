@@ -9,9 +9,9 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-6">
               <div className="h-8 w-8 rounded-full bg-gradient-to-r from-blue-500 to-teal-400 flex items-center justify-center">
-                <span className="font-bold text-white">SW</span>
+                <span className="font-bold text-white">GB</span>
               </div>
-              <h1 className="text-xl font-bold">Smart Workout</h1>
+              <h1 className="text-xl font-bold">Gym Buddy</h1>
             </div>
             <p className="text-gray-400 mb-6">
               AI-powered workout tracker that helps you perfect your form and reach your fitness goals faster.
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-500">
-          <p>&copy; {new Date().getFullYear()} Smart Workout AI. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Gym Buddy AI. All rights reserved.</p>
         </div>
       </div>
     </footer>

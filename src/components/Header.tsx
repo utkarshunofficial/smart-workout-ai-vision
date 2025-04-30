@@ -12,9 +12,9 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="h-8 w-8 rounded-full bg-gradient-to-r from-blue-500 to-teal-400 flex items-center justify-center">
-            <span className="font-bold text-white">SW</span>
+            <span className="font-bold text-white">GB</span>
           </div>
-          <h1 className="text-xl font-bold text-gray-900">Smart Workout</h1>
+          <h1 className="text-xl font-bold text-gray-900">Gym Buddy</h1>
         </div>
 
         {/* Desktop navigation */}

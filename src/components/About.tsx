@@ -8,10 +8,10 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="section-title text-3xl md:text-4xl font-bold mb-6">
-              About Smart Workout
+              About Gym Buddy
             </h2>
             <p className="text-lg text-gray-600 mb-6">
-              Smart Workout was born from a simple idea: make professional fitness guidance accessible to everyone. Our team of fitness enthusiasts and AI engineers came together to create a solution that brings advanced computer vision technology to your daily workout routine.
+              Gym Buddy was born from a simple idea: make professional fitness guidance accessible to everyone. Our team of fitness enthusiasts and AI engineers came together to create a solution that brings advanced computer vision technology to your daily workout routine.
             </p>
             <p className="text-lg text-gray-600 mb-6">
               Using MediaPipe and OpenCV, we've developed a system that can accurately track your movements, count repetitions, and provide real-time feedback on your exercise form—all without expensive equipment or personal trainers.
@@ -25,7 +25,7 @@ const About = () => {
             <div className="bg-gray-50 rounded-xl p-6">
               <h3 className="text-xl font-semibold mb-3">Our Technology</h3>
               <p className="text-gray-600">
-                Smart Workout uses state-of-the-art computer vision libraries like MediaPipe for pose estimation and OpenCV for image processing, allowing for precise and reliable tracking of your exercise movements in real-time.
+                Gym Buddy uses state-of-the-art computer vision libraries like MediaPipe for pose estimation and OpenCV for image processing, allowing for precise and reliable tracking of your exercise movements in real-time.
               </p>
             </div>
             

@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg text-gray-600 max-w-lg">
-            Smart Workout uses advanced AI to track your exercises, count reps, and provide real-time feedback on your form—all through your camera.
+            Gym Buddy uses advanced AI to track your exercises, count reps, and provide real-time feedback on your form—all through your camera.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
@@ -50,7 +50,7 @@ const Hero = () => {
               <div className="w-full max-w-md p-4">
                 <img 
                   src="https://placehold.co/600x400/e2f8ff/0099cc?text=AI+Workout+Tracking+Demo" 
-                  alt="Smart Workout AI Demo" 
+                  alt="Gym Buddy AI Demo" 
                   className="rounded-lg w-full h-auto shadow-md"
                 />
                 
