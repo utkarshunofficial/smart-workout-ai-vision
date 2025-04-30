@@ -70,7 +70,7 @@ const Hero = () => {
               ))}
             </div>
             <p className="text-sm text-gray-600">
-              <span className="font-bold text-gray-900">{animatedCount}+</span> fitness enthusiasts already on the waitlist
+              <span className="font-bold text-gray-900">{animatedCount}+</span> fitness enthusiasts like Utkarsh already on the waitlist
             </p>
           </div>
         </div>
@@ -90,7 +90,7 @@ const Hero = () => {
                     <Heart className="h-6 w-6 text-red-500" />
                     <div>
                       <p className="font-semibold text-sm">Form Analysis</p>
-                      <p className="text-xs text-gray-600">Great job! Keep your back straight</p>
+                      <p className="text-xs text-gray-600">Great job Utkarsh! Keep your back straight</p>
                     </div>
                   </div>
                 </div>

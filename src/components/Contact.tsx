@@ -42,7 +42,7 @@ const Contact = () => {
               Get in Touch
             </h2>
             <p className="text-lg text-gray-600 mb-8">
-              Have questions about Smart Workout? Interested in early access? Drop us a message and we'll get back to you soon.
+              Have questions about Gym Buddy? Interested in early access? Drop us a message and we'll get back to you soon.
             </p>
             
             <div className="space-y-6">
@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-1">Email Us</h3>
-                  <p className="text-gray-600">info@smartworkout.ai</p>
+                  <p className="text-gray-600">info@gymbuddy.ai</p>
                 </div>
               </div>
               
@@ -79,7 +79,7 @@ const Contact = () => {
                 <Input
                   id="name"
                   name="name"
-                  placeholder="John Doe"
+                  placeholder="Utkarsh"
                   value={formData.name}
                   onChange={handleChange}
                   required
@@ -94,7 +94,7 @@ const Contact = () => {
                   id="email"
                   name="email"
                   type="email"
-                  placeholder="john@example.com"
+                  placeholder="utkarsh@example.com"
                   value={formData.email}
                   onChange={handleChange}
                   required
